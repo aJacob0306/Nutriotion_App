@@ -108,5 +108,5 @@ show_button.pack(padx=10, pady=5)
 
 setup_database()
 
-# Run the Tkinter event loop
+# Run the Tkinter event loo
 root.mainloop()
